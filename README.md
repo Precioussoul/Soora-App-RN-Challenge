@@ -1,8 +1,10 @@
 # Soora-App-RN-Challenge
 
+This repository contain react-native onboarding challenge given to me by Soora Company for the 3-month React-Native Engineer Internship.
+
 ## Introduction
 
-this reposity contain react-native onboarding challenge at Soora Company
+Soora App is a social media that focus on connecting muslim women together into a private social space without any male counterpart interference.
 
 ## Getting Started
 
